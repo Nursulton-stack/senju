@@ -76,13 +76,11 @@ body{
     align-items: center;
     width: 533px;
     height: 70px;
-    border-radius: 20px;
     background-color: #F5F5F5;
 }
 .oquv{
     width: 255px;
     height: 54px;
-    border-radius: 15px;
     background-color: white;
 }
 .oquv1{
@@ -109,7 +107,6 @@ input{
     display: block;
     width: 533px;
     height: 70px;
-    border-radius: 20px;
 }
 .QR{
     opacity: 64%;
